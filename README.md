@@ -1,5 +1,5 @@
 # reinforcement_Learning
-Repository for my collab work containing implementation of various reinforcement algorithms(Q-Learning, Monte Carlo, DQN, REINFORMENT, Actor-Critic
+I solved various Gymnasium API machine learning environments using Q-Learning, Monte Carlo, DQN, REINFORMENT, Actor-Critic reinforcment learning algorithms.
 
 ## Notes:
 ### monte_carlo_and_q-learning:
